@@ -5,7 +5,7 @@
 
 * Project milestones via Trello: [milestones_on_trello](https://trello.com/b/0afQZQIB/kanban)
 
-* Developers: [Jingnu An](https://www.linkedin.com/in/jingnuan/), Jenna Blank, Wei Liu, Guobin Chen
+* Developers: [Jingnu An](https://www.linkedin.com/in/jingnuan/), Jenna Blank, [Wei Liu](www.linkedin.com/in/wei-liu-15b57721z), Guobin Chen
 
 * A introduction via github page: [Link to github page](https://jingnvan.github.io/EdTok/)
 
